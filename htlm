@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Portfolio - Your Name</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <main id="main">
+            <header>
+                <h1 id="title">Your Name</h1>
+            </header>
+            <div id="img-div">
+                <img id="image" src="your-image.jpg" alt="A picture of Your Name">
+            </div>
+            <section>
+                <h2>Coding Projects</h2>
+                <ul>
+                    <li><a href="#">Lab 1 - HTML Review and Git Hosting</a></li>
+                    <li><a href="#">Lab 2 - Number Tricks</a></li>
+                    <li><a href="#">Lab 3 - Number Tricks Enhanced</a></li>
+                    <li><a href="#">Lab 4 - MadLibs</a></li>
+                    <li><a href="#">Lab 5 - Debugging</a></li>
+                    <li><a href="#">Lab 6 - Test Score App</a></li>
+                    <li><a href="#">Lab 7 - Super Hero Cycling Banners</a></li>
+                    <li><a href="#">Lab 8 - The Changing Caterpillar</a></li>
+                    <li><a href="#">Lab 9 - Monster Mash</a></li>
+                    <li><a href="#">Lab 10 - Account Creation Form Validation</a></li>
+                    <li><a href="#">Lab 11 - Alien Sighting Form</a></li>
+                </ul>
+            </section>
+            <footer>
+                <p>&copy; 2025 Your Name. All rights reserved.</p>
+            </footer>
+        </main>
+    </body>
+</html>
